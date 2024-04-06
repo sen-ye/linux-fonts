@@ -26,7 +26,7 @@ print(mpl.matplotlib_fname())
 
 将.ttf文件复制到： **/home/user/anaconda3/envs/python/lib/python3.10/site-packages/matplotlib/mpl-data/matplotlibrc/fonts/ttf**中。
 
-接下来，清楚matplotlib缓存：
+接下来，清除matplotlib缓存：
 
 ```bash
 rm -rf /home/user/.cache/matplotlib
